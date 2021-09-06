@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mel.</h1>
 <h3 align="center">A Full-Stack Web Developer from Kyoto, Japan</h3>
 
-- 🌱 I’m currently learning **React, Typscript**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 📫 How to reach me **meljun.one@gmail.com**
 
