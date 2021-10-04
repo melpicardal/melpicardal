@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mel.</h1>
-<h3 align="center">A Full-Stack Web Developer from Kyoto, Japan</h3>
+<h3 align="center">A Web Developer from Kyoto, Japan</h3>
 
 - 🌱 I’m currently learning **React, Typescript**
 
